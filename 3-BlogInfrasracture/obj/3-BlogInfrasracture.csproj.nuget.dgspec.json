@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/3-BlogInfrasracture/3-BlogInfrasracture.csproj": {}
+  },
+  "projects": {
+    "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/1-BlogCore/1-BlogCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/1-BlogCore/1-BlogCore.csproj",
+        "projectName": "1-BlogCore",
+        "projectPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/1-BlogCore/1-BlogCore.csproj",
+        "packagesPath": "/Users/ilknurkarsli/.nuget/packages/",
+        "outputPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/1-BlogCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ilknurkarsli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/2-BlogApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/2-BlogApplication.csproj",
+        "projectName": "2-BlogApplication",
+        "projectPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/2-BlogApplication.csproj",
+        "packagesPath": "/Users/ilknurkarsli/.nuget/packages/",
+        "outputPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ilknurkarsli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/1-BlogCore/1-BlogCore.csproj": {
+                "projectPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/1-BlogCore/1-BlogCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/3-BlogInfrasracture/3-BlogInfrasracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/3-BlogInfrasracture/3-BlogInfrasracture.csproj",
+        "projectName": "3-BlogInfrasracture",
+        "projectPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/3-BlogInfrasracture/3-BlogInfrasracture.csproj",
+        "packagesPath": "/Users/ilknurkarsli/.nuget/packages/",
+        "outputPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/3-BlogInfrasracture/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ilknurkarsli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/2-BlogApplication.csproj": {
+                "projectPath": "/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/2-BlogApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

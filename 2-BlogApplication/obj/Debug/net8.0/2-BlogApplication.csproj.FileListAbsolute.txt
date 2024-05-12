@@ -1,0 +1,15 @@
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/bin/Debug/net8.0/2-BlogApplication.deps.json
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/bin/Debug/net8.0/2-BlogApplication.dll
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/bin/Debug/net8.0/2-BlogApplication.pdb
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/bin/Debug/net8.0/1-BlogCore.dll
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/bin/Debug/net8.0/1-BlogCore.pdb
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.csproj.AssemblyReference.cache
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.AssemblyInfoInputs.cache
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.AssemblyInfo.cs
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.csproj.CoreCompileInputs.cache
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.csproj.CopyComplete
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.dll
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/refint/2-BlogApplication.dll
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/2-BlogApplication.pdb
+/Users/ilknurkarsli/Desktop/kd19/95-OnionArchitecture-BlogProject/2-BlogApplication/obj/Debug/net8.0/ref/2-BlogApplication.dll
